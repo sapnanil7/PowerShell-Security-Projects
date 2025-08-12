@@ -6,7 +6,7 @@ A curated ladder of **10 security-focused PowerShell projects** from beginner �
 
 | # | Project | Focus | Status |
 |---|--------|-------|--------|
-| 01 | [EventLog Threat Detector](01 - EventLog Threat Detector/README.md) | Get-WinEvent, parsing, alerting | 🚧
+| 01 | [EventLog Threat Detector](01-EventLog-Threat-Detector/README.md) | Get-WinEvent, parsing, alerting | 🚧
 | 02 | TBD | | ⏳
 | 03 | TBD | | ⏳
 | 04 | TBD | | ⏳
