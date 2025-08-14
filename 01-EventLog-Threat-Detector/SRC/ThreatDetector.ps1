@@ -1,0 +1,1 @@
+Get-WinEvent -LogName Security -FilterXPath '*/System/EventID=4624'
